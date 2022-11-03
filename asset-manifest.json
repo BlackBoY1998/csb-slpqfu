@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://blackboy1998.github.io/csb-slpqfu/static/js/main.7e2f465d.chunk.js",
+    "main.js.map": "https://blackboy1998.github.io/csb-slpqfu/static/js/main.7e2f465d.chunk.js.map",
+    "runtime-main.js": "https://blackboy1998.github.io/csb-slpqfu/static/js/runtime-main.6a4430ec.js",
+    "runtime-main.js.map": "https://blackboy1998.github.io/csb-slpqfu/static/js/runtime-main.6a4430ec.js.map",
+    "static/js/2.6fb50760.chunk.js": "https://blackboy1998.github.io/csb-slpqfu/static/js/2.6fb50760.chunk.js",
+    "static/js/2.6fb50760.chunk.js.map": "https://blackboy1998.github.io/csb-slpqfu/static/js/2.6fb50760.chunk.js.map",
+    "index.html": "https://blackboy1998.github.io/csb-slpqfu/index.html",
+    "static/js/2.6fb50760.chunk.js.LICENSE.txt": "https://blackboy1998.github.io/csb-slpqfu/static/js/2.6fb50760.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a4430ec.js",
+    "static/js/2.6fb50760.chunk.js",
+    "static/js/main.7e2f465d.chunk.js"
+  ]
+}
